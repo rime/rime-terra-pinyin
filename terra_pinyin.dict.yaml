@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2017.01.07"
+version: "2017.03.09"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -357,6 +357,7 @@ min_phrase_weight: 100
 㕵	guo2
 㕷	hua4
 㕷	pa1
+㕷	pia1
 㕸	li4
 㕹	fa2
 㕺	xiao1
@@ -9326,6 +9327,7 @@ min_phrase_weight: 100
 啨	ying1
 啩	gua4
 啪	pa1
+啪	pia1
 啫	zhe3
 啬	se4
 啭	zhuan4
