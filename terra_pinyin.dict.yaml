@@ -29822,7 +29822,7 @@ min_phrase_weight: 100
 骮	yi4
 骯	ang1
 骰	tou2
-骰	shai3
+骰	shai3	0%
 骱	xie4
 骲	bao4
 骳	bei4
@@ -98174,6 +98174,7 @@ min_phrase_weight: 100
 骯髒	ang1 zang1
 骯髒	kang3 zang3
 骰子	tou2 zi5
+骰子	shai3 zi5
 骲箭	bo2 jian4
 骲頭	bo2 tou2
 骾朴	geng3 pu2
