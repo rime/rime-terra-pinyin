@@ -13528,7 +13528,7 @@ min_phrase_weight: 100
 挼	sui1
 挽	wan3
 挾	jia1	50%
-挾	jia2
+挾	jia2	50%
 挾	xie2	50%
 挿	cha1
 捀	feng2
@@ -14712,7 +14712,7 @@ min_phrase_weight: 100
 朝	zhao1	30%
 朞	ji1
 朞	qi1
-期	ji1
+期	ji1	3%
 期	qi1
 期	qi2
 朠	ying1
@@ -16445,7 +16445,7 @@ min_phrase_weight: 100
 泓	hong2
 泔	gan1
 法	fa3
-法	fa4
+法	fa4	3%
 泖	mao3
 泗	si4
 泘	hu1
@@ -51910,14 +51910,13 @@ min_phrase_weight: 100
 優遊自得	you1 you2 zi4 de2
 優長	you1 chang2
 儱侗	long3 tong2
-儲值	chu3 zhi2
+儲值卡	chu2 zhi2 ka3
 儲值卡	chu3 zhi2 ka3
 儲值票	chu2 zhi2 piao4
 儲備	chu2 bei4
 儲備幹部	chu2 bei4 gan4 bu4
 儲備銀行	chu2 bei4 yin2 hang2
 儲君	chu2 jun1
-儲存	chu2 cun2
 儲存單位	chu2 cun2 dan1 wei4
 儲幣	chu2 bi4
 儲水量	chu2 shui3 liang4
@@ -75141,6 +75140,7 @@ min_phrase_weight: 100
 法冠	fa3 guan1
 法勒斯	fa3 le4 si1
 法向量	fa3 xiang4 liang4
+法國	fa4 guo2
 法國喜劇片	fa3 guo2 xi3 ju4 pian4
 法國航空	fa3 guo2 hang2 kong1
 法國航空公司	fa3 guo2 hang2 kong1 gong1 si1
@@ -75151,6 +75151,7 @@ min_phrase_weight: 100
 法天象地	fa3 tian1 xiang4 di4
 法子	fa2 zi5
 法子	fa3 zi5
+法文	fa4 wen2
 法定人數	fa3 ding4 ren2 shu4
 法定傳染病	fa3 ding4 chuan2 ran3 bing4
 法定準備率	fa3 ding4 zhun3 bei4 lv4
@@ -75169,6 +75170,7 @@ min_phrase_weight: 100
 法爾卡什	fa3 er3 ka3 shi2
 法相	fa3 xiang4
 法相宗	fa3 xiang4 zong1
+法語	fa4 yu3
 法稱	fa3 cheng1
 法網難逃	fa3 wang3 nan2 tao2
 法耶德	fa3 ye1 de2
