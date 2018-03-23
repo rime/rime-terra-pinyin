@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2017.03.09"
+version: "2018.03.23"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -7347,6 +7347,7 @@ min_phrase_weight: 100
 仸	yao3
 仹	feng1
 仺	cang1
+任	ren2
 任	ren4
 仼	wang2
 份	fen4
@@ -7354,6 +7355,7 @@ min_phrase_weight: 100
 仿	fang3
 伀	zhong1
 企	qi3
+企	qi4
 伂	pei4
 伃	xu4
 伃	yu2
@@ -8016,6 +8018,7 @@ min_phrase_weight: 100
 儯	teng2
 儰	wei3
 儱	long3
+儲	chu2
 儲	chu3
 儳	chan4
 儴	rang2
@@ -8786,6 +8789,7 @@ min_phrase_weight: 100
 叓	li4
 叓	shi4
 叔	shu1
+叔	shu2
 叕	jue2
 叕	li4
 叕	yi3
@@ -11722,7 +11726,8 @@ min_phrase_weight: 100
 嵊	sheng4
 嵋	mei2
 嵌	kan3	0%
-嵌	qian4	100%
+嵌	qian1
+嵌	qian4
 嵍	mao2
 嵍	wu4
 嵎	yu2
@@ -11934,6 +11939,7 @@ min_phrase_weight: 100
 帄	ding1
 帅	shuai4
 帆	fan1
+帆	fan2
 帇	nie4
 师	shi1
 帉	fen1
@@ -12664,6 +12670,7 @@ min_phrase_weight: 100
 恮	quan1
 恮	zhuan1
 息	xi1
+息	xi2
 恰	qia4
 恱	yue4
 恲	peng1
@@ -13521,6 +13528,7 @@ min_phrase_weight: 100
 挼	sui1
 挽	wan3
 挾	jia1	50%
+挾	jia2	50%
 挾	xie2	50%
 挿	cha1
 捀	feng2
@@ -14078,6 +14086,7 @@ min_phrase_weight: 100
 擰	ning4	33.33%
 擱	ge1	99%
 擱	ge2	1%
+擲	zhi2
 擲	zhi4
 擳	jie2
 擳	zhi4
@@ -14703,8 +14712,9 @@ min_phrase_weight: 100
 朝	zhao1	30%
 朞	ji1
 朞	qi1
+期	ji1	3%
 期	qi1
-期	qi2	0%
+期	qi2
 朠	ying1
 朡	zong1
 朢	wang4
@@ -15056,6 +15066,7 @@ min_phrase_weight: 100
 桄	guang1	50%
 桄	guang4	50%
 桅	wei2
+框	kuang1
 框	kuang4
 桇	ru2
 案	an4
@@ -15321,6 +15332,7 @@ min_phrase_weight: 100
 椯	chuan2
 椯	duo3
 椰	ye1
+椰	ye2
 椱	fu4
 椲	hui1
 椲	wei3
@@ -16433,6 +16445,7 @@ min_phrase_weight: 100
 泓	hong2
 泔	gan1
 法	fa3
+法	fa4	3%
 泖	mao3
 泗	si4
 泘	hu1
@@ -16730,6 +16743,7 @@ min_phrase_weight: 100
 淏	hao4
 淐	chang1
 淑	shu1
+淑	shu2
 淒	qi1
 淓	fang1
 淔	zhi2
@@ -19669,6 +19683,7 @@ min_phrase_weight: 100
 矻	ku4
 矼	jiang1
 矽	xi1
+矽	xi4
 矾	fan2
 矿	kuang4
 砀	dang4
@@ -20406,6 +20421,7 @@ min_phrase_weight: 100
 穳	cuan2
 穳	zan4
 穴	xue2
+穴	xue4
 穵	wa1
 究	jiu1
 穷	qiong2
@@ -20422,6 +20438,7 @@ min_phrase_weight: 100
 穿	chuan1
 窀	zhun1
 突	tu1
+突	tu2
 窂	lao2
 窃	qie4
 窄	zhai3
@@ -22124,6 +22141,7 @@ min_phrase_weight: 100
 肈	zhao4
 肉	rou4
 肊	yi4
+肋	le4
 肋	lei4
 肌	ji1
 肍	qiu2
@@ -22750,6 +22768,7 @@ min_phrase_weight: 100
 芌	yu4
 芍	shao2
 芎	qiong1
+芎	qiong2
 芎	xiong1
 芏	du4
 芐	hu4
@@ -25763,6 +25782,7 @@ min_phrase_weight: 100
 責	ze2
 貭	zhi2
 貮	er4
+貯	zhu3
 貯	zhu4
 貰	shi4
 貱	bi4
@@ -26090,6 +26110,7 @@ min_phrase_weight: 100
 跊	mei4
 跋	ba2
 跌	die1
+跌	die2
 跍	ku1
 跎	tuo2
 跏	jia1
@@ -26112,6 +26133,7 @@ min_phrase_weight: 100
 跞	li4
 跟	gen1
 跠	yi2
+跡	ji1
 跡	ji4
 跢	chi2
 跢	dai4
@@ -27381,6 +27403,7 @@ min_phrase_weight: 100
 鈵	bing3
 鈶	ci2
 鈶	si4
+鈶	yi2
 鈶	tai2
 鈷	gu3
 鈸	bo2
@@ -27683,6 +27706,7 @@ min_phrase_weight: 100
 錪	tian3
 錪	tun3
 錫	xi1
+錫	xi2
 錬	lian4
 錭	diao1
 錭	tao2
@@ -29086,6 +29110,7 @@ min_phrase_weight: 100
 頞	e4
 頟	e2
 頠	wei3
+頡	jie2
 頡	xie2
 頢	kuo4
 頣	shen3
@@ -29797,6 +29822,7 @@ min_phrase_weight: 100
 骮	yi4
 骯	ang1
 骰	tou2
+骰	shai3
 骱	xie4
 骲	bao4
 骳	bei4
@@ -29864,6 +29890,7 @@ min_phrase_weight: 100
 髫	tiao2
 髬	pi1
 髭	zi1
+髮	fa3
 髮	fa4
 髯	ran2
 髰	ti4
@@ -51883,31 +51910,30 @@ min_phrase_weight: 100
 優遊自得	you1 you2 zi4 de2
 優長	you1 chang2
 儱侗	long3 tong2
+儲值卡	chu2 zhi2 ka3
 儲值卡	chu3 zhi2 ka3
-儲值票	chu2 zhi2 piao4
-儲備	chu2 bei4
 儲備幹部	chu2 bei4 gan4 bu4
+儲備幹部	chu3 bei4 gan4 bu4
 儲備銀行	chu2 bei4 yin2 hang2
-儲君	chu2 jun1
-儲存	chu2 cun2
-儲存單位	chu2 cun2 dan1 wei4
-儲幣	chu2 bi4
+儲備銀行	chu3 bei4 yin2 hang2
 儲水量	chu2 shui3 liang4
-儲油構造	chu2 you2 gou4 zao4
-儲積	chu2 ji1
-儲胥	chu2 xu1
+儲水量	chu3 shui3 liang4
 儲蓄	chu2 xu4
+儲蓄	chu3 xu4
 儲蓄券	chu2 xu4 quan4
+儲蓄券	chu3 xu4 quan4
 儲蓄存款	chu2 xu4 cun2 kuan3
+儲蓄存款	chu3 xu4 cun2 kuan3
+儲蓄率	chu2 xu4 lv4
 儲蓄率	chu3 xu4 lv4
 儲蓄銀行	chu2 xu4 yin2 hang2
+儲蓄銀行	chu3 xu4 yin2 hang2
 儲藏	chu2 cang2
 儲藏	chu3 cang2
+儲藏室	chu2 cang2 shi4
 儲藏室	chu3 cang2 shi4
-儲訓	chu2 xun4
-儲運	chu2 yun4
+儲量	chu2 liang4
 儲量	chu3 liang4
-儲齡	chu2 ling2
 兀剌	wu4 la4
 兀剌赤	wu4 la4 chi4
 兀子	wu4 zi5
@@ -53058,6 +53084,7 @@ min_phrase_weight: 100
 分會	fen1 hui4
 分會場	fen1 hui4 chang3
 分期	fen1 qi1
+分期	fen1 qi2
 分期付款	fen1 qi1 fu4 kuan3
 分期付款	fen1 qi2 fu4 kuan3
 分杯羹	fen1 bei1 geng1
@@ -55378,6 +55405,7 @@ min_phrase_weight: 100
 厭難折衝	yan4 nan2 zhe2 chong1
 厭飫	yan1 yu4
 厭飫	yan4 yu4
+厲害	li4 hai4
 厲害	li4 hai5
 厲精更始	li4 jing1 geng1 shi3
 厲行	li4 xing2
@@ -75111,6 +75139,8 @@ min_phrase_weight: 100
 法冠	fa3 guan1
 法勒斯	fa3 le4 si1
 法向量	fa3 xiang4 liang4
+法國	fa3 guo2
+法國	fa4 guo2
 法國喜劇片	fa3 guo2 xi3 ju4 pian4
 法國航空	fa3 guo2 hang2 kong1
 法國航空公司	fa3 guo2 hang2 kong1 gong1 si1
@@ -75131,9 +75161,13 @@ min_phrase_weight: 100
 法帖	fa3 tie4
 法度	fa3 du4
 法度嚴明	fa3 du4 yan2 ming2
+法式	fa3 shi4
+法式	fa4 shi4
 法律行爲	fa3 lv4 xing2 wei2
 法拉盛	fa3 la1 sheng4
 法教	fa3 jiao4
+法文	fa3 wen2
+法文	fa4 wen2
 法曲	fa3 qu3
 法海和尚	fa3 hai3 he2 shang4
 法爾卡什	fa3 er3 ka3 shi2
@@ -75154,6 +75188,8 @@ min_phrase_weight: 100
 法蘭西斯·培根	fa3 lan2 xi1 si1 pei2 gen1
 法蘭西斯·斐迪南	fa3 lan2 xi1 si1 fei3 di2 nan2
 法蘭西體育場	fa3 lan2 xi1 ti3 yu4 chang3
+法語	fa3 yu3
+法語	fa4 yu3
 法論功	fa3 lun2 gong1
 法輪常轉	fa3 lun2 chang2 zhuan4
 法隆寺	fa3 long1 si4
@@ -76434,6 +76470,7 @@ min_phrase_weight: 100
 漁鉤兒	yu2 gou1 r5
 漁陽弄	yu2 yang2 nong4
 漁陽摻撾	yu2 yang2 can4 zhua1
+漂亮	piao4 liang4
 漂亮	piao4 liang5
 漂亮話	piao4 liang5 hua4
 漂來戶	piao1 lai2 hu4
@@ -86159,6 +86196,7 @@ min_phrase_weight: 100
 舒坦	shu1 tan3
 舒坦	shu1 tan5
 舒散	shu1 san4
+舒服	shu1 fu2
 舒服	shu1 fu5
 舒筋活血	shu1 jin1 huo2 xie3
 舒舒服服	shu1 shu1 fu1 fu1
@@ -88331,8 +88369,8 @@ min_phrase_weight: 100
 血海深仇	xue4 hai3 shen1 chou2
 血液	xie3 ye4
 血液	xie3 yi4
-血液	xue4 ye4
 血液	xue3 ye4
+血液	xue4 ye4
 血液增強劑	xue4 ye4 zeng1 qiang2 ji4
 血滴子	xie3 di1 zi3
 血肉橫飛	xie3 rou4 heng2 fei1
@@ -97761,6 +97799,7 @@ min_phrase_weight: 100
 饃頭	mo2 tou5
 饃饃	mo2 mo5
 饃饃一樣	mo2 mo5 yi2 yang4
+饅頭	man2 tou2
 饅頭	man2 tou5
 饅頭不吃惹身羶	man2 tou5 bu4 chi1 re3 shen1 shan1
 饅頭果	man2 tou5 guo3
@@ -98584,6 +98623,7 @@ min_phrase_weight: 100
 鴨步鵝行	ya1 bu4 e2 xing2
 鴨綠江	ya1 lu4 jiang1
 鴨蛋雖密也有縫	ya1 dan4 sui1 mi4 ye3 you3 feng4
+鴨血	ya1 xue3
 鴨頭丸帖	ya1 tou2 wan2 tie4
 鴻案相莊	hong2 an4 xiang1 zhuang1
 鴻洞	hong2 tong2
@@ -99156,4 +99196,3 @@ min_phrase_weight: 100
 𣝓弧	yan3 hu2
 𣝓絲	yan3 si1
 𧑗蝦	ning2 xia1
-鴨血	ya1 xue3
