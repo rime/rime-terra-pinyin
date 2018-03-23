@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2017.03.09"
+version: "2018.03.23"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -75168,6 +75168,7 @@ min_phrase_weight: 100
 法曲	fa3 qu3
 法海和尚	fa3 hai3 he2 shang4
 法爾卡什	fa3 er3 ka3 shi2
+法式	fa4 shi4
 法相	fa3 xiang4
 法相宗	fa3 xiang4 zong1
 法語	fa4 yu3
