@@ -75151,8 +75151,6 @@ min_phrase_weight: 100
 法天象地	fa3 tian1 xiang4 di4
 法子	fa2 zi5
 法子	fa3 zi5
-法文	fa3 wen2
-法文	fa4 wen2
 法定人數	fa3 ding4 ren2 shu4
 法定傳染病	fa3 ding4 chuan2 ran3 bing4
 法定準備率	fa3 ding4 zhun3 bei4 lv4
@@ -75163,18 +75161,18 @@ min_phrase_weight: 100
 法帖	fa3 tie4
 法度	fa3 du4
 法度嚴明	fa3 du4 yan2 ming2
+法式	fa3 shi4
+法式	fa4 shi4
 法律行爲	fa3 lv4 xing2 wei2
 法拉盛	fa3 la1 sheng4
 法教	fa3 jiao4
+法文	fa3 wen2
+法文	fa4 wen2
 法曲	fa3 qu3
 法海和尚	fa3 hai3 he2 shang4
 法爾卡什	fa3 er3 ka3 shi2
-法式	fa3 shi4
-法式	fa4 shi4
 法相	fa3 xiang4
 法相宗	fa3 xiang4 zong1
-法語	fa3 yu3
-法語	fa4 yu3
 法稱	fa3 cheng1
 法網難逃	fa3 wang3 nan2 tao2
 法耶德	fa3 ye1 de2
@@ -75190,6 +75188,8 @@ min_phrase_weight: 100
 法蘭西斯·培根	fa3 lan2 xi1 si1 pei2 gen1
 法蘭西斯·斐迪南	fa3 lan2 xi1 si1 fei3 di2 nan2
 法蘭西體育場	fa3 lan2 xi1 ti3 yu4 chang3
+法語	fa3 yu3
+法語	fa4 yu3
 法論功	fa3 lun2 gong1
 法輪常轉	fa3 lun2 chang2 zhuan4
 法隆寺	fa3 long1 si4
@@ -88369,8 +88369,8 @@ min_phrase_weight: 100
 血海深仇	xue4 hai3 shen1 chou2
 血液	xie3 ye4
 血液	xie3 yi4
-血液	xue4 ye4
 血液	xue3 ye4
+血液	xue4 ye4
 血液增強劑	xue4 ye4 zeng1 qiang2 ji4
 血滴子	xie3 di1 zi3
 血肉橫飛	xie3 rou4 heng2 fei1
@@ -98623,6 +98623,7 @@ min_phrase_weight: 100
 鴨步鵝行	ya1 bu4 e2 xing2
 鴨綠江	ya1 lu4 jiang1
 鴨蛋雖密也有縫	ya1 dan4 sui1 mi4 ye3 you3 feng4
+鴨血	ya1 xue3
 鴨頭丸帖	ya1 tou2 wan2 tie4
 鴻案相莊	hong2 an4 xiang1 zhuang1
 鴻洞	hong2 tong2
@@ -99195,4 +99196,3 @@ min_phrase_weight: 100
 𣝓弧	yan3 hu2
 𣝓絲	yan3 si1
 𧑗蝦	ning2 xia1
-鴨血	ya1 xue3
