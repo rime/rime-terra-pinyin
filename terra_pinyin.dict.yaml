@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2018.03.23"
+version: "2018.04.10"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -18931,6 +18931,7 @@ min_phrase_weight: 100
 番	fan1	96%
 番	pan1	4%
 畫	hua4
+畬	she1
 畬	yu2
 畭	yu2
 畮	mu3
@@ -64669,6 +64670,7 @@ min_phrase_weight: 100
 徐州地區	xu2 zhou1 di4 qu1
 徐熙媛	xu2 xi1 yuan2
 徐穉置芻	xu2 zhi4 zhi4 chu2
+徐繼畬	xu2 ji4 yu2
 徐行	xu2 xing2
 徑行	jing4 xing2
 徒手操	tu2 shou3 cao1
@@ -70432,6 +70434,7 @@ min_phrase_weight: 100
 斧頭	fu3 tou5
 斫喪	zhuo2 sang4
 斫地	zhuo2 di4
+斫畬	zhuo2 she1
 斫蜋	zhuo2 lang2
 斫雕爲樸	zhuo2 diao1 wei2 pu2
 斫鱠	zhuo2 kui4
@@ -71102,8 +71105,10 @@ min_phrase_weight: 100
 普降甘霖	pu3 jiang4 gan1 lin2
 普魯卡因	pu3 lu3 ka3 yin1
 景寧	jing3 ning2
-景寧畬鄉	jing3 ning2 yu2 xiang1
+景寧畬族自治縣	jing3 ning2 she1 zu2 zi4 zhi4 xian4
+景寧畬鄉	jing3 ning2 she1 xiang1
 景寧畲族自治縣	jing3 ning2 she1 zu2 zi4 zhi4 xian4
+景寧畲鄉	jing3 ning2 she1 xiang1
 景寧縣	jing3 ning2 xian4
 景差	jing3 cuo1
 景從	ying3 cong2
@@ -79028,8 +79033,11 @@ min_phrase_weight: 100
 畫蛇着足	hua4 she2 zhuo2 zu2
 畫行	hua4 xing2
 畫龍不成反爲狗	hua4 long2 bu4 cheng2 fan3 wei2 gou3
+畬丁	yu2 ding1
 畬族	she1 zu2
 畬民	she1 min2
+畬田	she1 tian2
+畬鄉	she1 xiang1
 異咯嗪	yi4 ge1 qin2
 異國情調	yi4 guo2 qing2 diao4
 異地	yi4 di4
@@ -86808,6 +86816,7 @@ min_phrase_weight: 100
 菌質	jun4 zhi4
 菌陳蒿	jun1 chen2 hao1
 菌類培養液	jun4 lei4 pei2 yang3 ye4
+菑畬	zi1 yu2
 菖鮋	chang1 you2
 菜包子	cai4 bao1 zi5
 菜地	cai4 di4
@@ -98173,8 +98182,8 @@ min_phrase_weight: 100
 骫骳	wei3 bi4
 骯髒	ang1 zang1
 骯髒	kang3 zang3
-骰子	tou2 zi5
 骰子	shai3 zi5
+骰子	tou2 zi5
 骲箭	bo2 jian4
 骲頭	bo2 tou2
 骾朴	geng3 pu2
