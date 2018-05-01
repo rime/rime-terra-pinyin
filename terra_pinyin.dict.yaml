@@ -15350,8 +15350,7 @@ min_phrase_weight: 100
 椽	chuan2
 椾	jian1
 椾	zhan4
-椿	chun1	50%
-椿	chun2	50%
+椿	chun1
 楀	yu3
 楁	he2
 楂	cha2	50%
@@ -18861,8 +18860,7 @@ min_phrase_weight: 100
 甩	shuai3
 甪	lu4
 甫	fu3
-甬	tong3	50%
-甬	yong3	50%
+甬	yong3
 甭	beng2
 甮	beng2
 甯	ning2
@@ -20107,8 +20105,7 @@ min_phrase_weight: 100
 祪	gui3
 祫	xia2
 祬	zhi1
-祭	ji4	98%
-祭	zha4	1%
+祭	ji4	99%
 祭	zhai4	1%
 祮	gao4
 祯	zhen1
