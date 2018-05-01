@@ -7258,8 +7258,10 @@ min_phrase_weight: 100
 亯	xiang3
 亰	jing1
 亱	ye4
-亲	qin1	1%
-亲	zhen1	99%
+亲	qin1	0%
+亲	qing1	0%
+亲	xin1	10%
+亲	zhen1	90%
 亳	bo2
 亴	you4
 亵	xie4
