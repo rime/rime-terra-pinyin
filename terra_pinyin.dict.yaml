@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2018.04.10"
+version: "2018.10.22"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -20082,7 +20082,6 @@ min_phrase_weight: 100
 祓	fu2
 祔	fu4
 祕	bi4	10%
-祕	mi4
 祕	mi4	90%
 祖	zu3
 祗	zhi1
@@ -20228,7 +20227,6 @@ min_phrase_weight: 100
 秖	zhi1
 秗	yu4
 秘	bi4	10%
-秘	mi4
 秘	mi4	90%
 秙	ku4
 秚	ban4
