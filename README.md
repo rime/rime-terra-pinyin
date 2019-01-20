@@ -2,7 +2,7 @@
 
 配方： ℞ **terra-pinyin**
 
-[Rime](http://rime.im) 漢語拼音輸入方案
+[Rime](https://rime.im) 漢語拼音輸入方案
 
 漢字讀音依照現代標準漢語，拼寫依照 [《漢語拼音方案》](https://zh.wikisource.org/wiki/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88)
 
