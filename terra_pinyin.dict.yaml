@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2018.10.22"
+version: "2019.06.26"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -19500,7 +19500,8 @@ min_phrase_weight: 100
 睟	sui4
 睠	juan4
 睡	shui4
-睢	sui1
+睢	hui1	30%
+睢	sui1	70%
 督	du1
 睤	bi4
 睥	bi4
@@ -80821,6 +80822,7 @@ min_phrase_weight: 100
 睡覺	shui4 jiao4
 睡覺	shui4 jue2
 睡長覺	shui4 chang2 jiao4
+睢盱	hui1 xu1
 睢寧	sui1 ning2
 睢寧縣	sui1 ning2 xian4
 督率	du1 shuai4
