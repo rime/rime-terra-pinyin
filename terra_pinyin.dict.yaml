@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2019.06.26"
+version: "2019.06.27"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -9127,7 +9127,6 @@ min_phrase_weight: 100
 哉	zai1
 哊	you4
 哋	di4
-哌	gu1
 哌	pai4
 响	xiang3
 哎	ai1
@@ -57049,8 +57048,6 @@ min_phrase_weight: 100
 哈迪	ha3 di2
 哈達	ha1 da2
 哈達	ha3 da2
-哌嗪	pai4 qin2
-哌替啶	pai4 ti4 ding4
 哎呀	ai1 ya1
 哎喲	ai1 yao1
 哎喲	ai1 yo1
