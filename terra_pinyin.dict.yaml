@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2019.08.16"
+version: "2019.08.17"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -14738,7 +14738,11 @@ min_phrase_weight: 100
 朱	zhu1
 朲	ren2
 朳	ba1
-朴	po4
+朴	po4	5%
+朴	pu2	5%
+朴	po1	5%
+朴	piao2	10%
+朴	pu3	75%
 朵	duo3
 朶	duo3
 朷	dao1
