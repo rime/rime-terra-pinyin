@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2019.08.17"
+version: "2019.08.21"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -14738,11 +14738,11 @@ min_phrase_weight: 100
 朱	zhu1
 朲	ren2
 朳	ba1
-朴	po4	5%
-朴	pu2	5%
+朴	po4	3%
+朴	pu2	2%
 朴	po1	5%
 朴	piao2	10%
-朴	pu3	75%
+朴	pu3	80%
 朵	duo3
 朶	duo3
 朷	dao1
@@ -16362,10 +16362,10 @@ min_phrase_weight: 100
 沉	chen2	100%
 沊	dan4
 沋	you2
-沌	dun4	75%
-沌	tun2	10%
-沌	zhuan4	10%
-沌	chun2	5%
+沌	dun4	90%
+沌	tun2	2%
+沌	zhuan4	5%
+沌	chun2	3%
 沍	hu4
 沎	huo4
 沏	qi1
@@ -17527,9 +17527,9 @@ min_phrase_weight: 100
 炃	ben4
 炃	fen2
 炄	niu3
-炅	jiong3	80%
-炅	geng3	5%
-炅	gui4	15%
+炅	jiong3	90%
+炅	geng3	1%
+炅	gui4	9%
 炆	wen2
 炇	po4
 炈	yi4
@@ -26799,9 +26799,9 @@ min_phrase_weight: 100
 速	su4
 造	zao4
 逡	qun1
-逢	feng2	85%
-逢	pang2	5%
-逢	peng2	10%
+逢	feng2	95%
+逢	pang2	2%
+逢	peng2	3%
 連	lian2
 逤	suo4
 逥	hui2
