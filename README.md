@@ -17,6 +17,8 @@
 省略聲調或韻母時，於字詞旁得完整拼音標註。
 然此標註由程序自動生成，多音字註音恐有謬誤，只可視作輔助，不應引爲正音。
 
+送出時按 ctrl + enter 則送出無標註音標的拼音（以空格分開），按 ctrl + shift + enter 則送出帶有音標標註的拼音
+
 ## 安裝
 
 [東風破](https://github.com/rime/plum) 安裝口令： `bash rime-install terra-pinyin`
