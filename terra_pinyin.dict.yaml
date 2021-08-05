@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2020.02.08"
+version: "2021.08.05"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -47979,7 +47979,7 @@ min_phrase_weight: 100
 不中	bu4 zhong1
 不中使	bu2 zhong4 shi3
 不中意	bu2 zhong4 yi4
-不中擡舉	bu2 zhong4 tai2 ju3
+不中抬舉	bu2 zhong4 tai2 ju3
 不中用	bu2 zhong4 yong4
 不中相與	bu2 zhong4 xiang1 yu3
 不中聽	bu2 zhong4 ting1
@@ -48092,7 +48092,7 @@ min_phrase_weight: 100
 不區分大小寫	bu4 qu1 fen1 da4 xiao3 xie3
 不十分	bu4 shi2 fen1
 不協調	bu4 xie2 tiao2
-不受擡舉	bu2 shou4 tai2 ju5
+不受抬舉	bu2 shou4 tai2 ju5
 不受用	bu2 shou4 yong5
 不受約束	bu2 shou4 yue1 shu4
 不可企及	bu4 ke3 qi4 ji2
@@ -48596,7 +48596,7 @@ min_phrase_weight: 100
 不識好歹	bu2 shi4 hao3 dai3
 不識局面	bu2 shi4 ju2 mian4
 不識廬山真面目	bu2 shi4 lu2 shan1 zhen1 mian4 mu4
-不識擡舉	bu2 shi4 tai2 ju5
+不識抬舉	bu2 shi4 tai2 ju5
 不識數	bu2 shi4 shu4
 不識斤兩	bu2 shi4 jin1 liang3
 不識時務	bu2 shi4 shi2 wu4
@@ -56959,9 +56959,9 @@ min_phrase_weight: 100
 哄堂	hong1 tang2
 哄堂大笑	hong1 tang2 da4 xiao4
 哄弄	hong3 nong4
+哄抬	hong1 tai2
+哄抬物價	hong1 tai2 wu4 jia4
 哄搶	hong1 qiang3
-哄擡	hong1 tai2
-哄擡物價	hong1 tai2 wu4 jia4
 哄然	hong1 ran2
 哄瞞	hong3 man2
 哄笑	hong1 xiao4
@@ -59692,6 +59692,7 @@ min_phrase_weight: 100
 大惡	da4 e4
 大意	da4 yi4
 大意	da4 yi5
+大抬其槓	da4 tai2 qi2 gang4
 大拇指	da4 mu3 zhi3
 大拇指	da4 mu5 zhi3
 大拇指頭	da4 mu3 zhi3 tou5
@@ -59704,7 +59705,6 @@ min_phrase_weight: 100
 大排長龍	da4 pai2 chang2 long2
 大換血	da4 huan4 xie3
 大擋手的	da4 dang3 shou3 de5
-大擡其槓	da4 tai2 qi2 gang4
 大擺褶子	da4 bai3 xue2 zi5
 大故	da4 gu4
 大故	dai4 gu4
@@ -67313,6 +67313,13 @@ min_phrase_weight: 100
 披髮左衽	pi1 fa3 zuo3 ren4
 披髮纓冠	pi1 fa3 ying1 guan1
 披髮藻目	pi1 fa3 zao3 mu4
+抬帖	tai2 tie3
+抬槓	tai2 gang4
+抬舉	tai2 ju5
+抬行市	tai2 hang2 shi4
+抬轎子	tai2 jiao4 zi5
+抬頦	tai2 hai2
+抬鼓弄	tai2 gu3 nong4
 抱子弄孫	bao4 zi3 nong4 sun1
 抱孩子	bao4 hai2 zi5
 抱廈廳	bao4 xia4 ting1
@@ -69405,7 +69412,7 @@ min_phrase_weight: 100
 擔杖	dan4 zhang4
 擔架	dan1 jia4
 擔架兵	dan1 jia4 bing1
-擔架擡	dan1 jia4 tai2
+擔架抬	dan1 jia4 tai2
 擔架牀	dan1 jia4 chuang2
 擔水	dan1 shui3
 擔水向河頭賣	dan1 shui3 xiang4 he2 tou2 mai4
@@ -69457,13 +69464,6 @@ min_phrase_weight: 100
 擠落	ji3 luo4
 擠訛頭	ji3 e2 tou5
 擠軋	ji3 ya4
-擡帖	tai2 tie3
-擡槓	tai2 gang4
-擡舉	tai2 ju5
-擡行市	tai2 hang2 shi4
-擡轎子	tai2 jiao4 zi5
-擡頦	tai2 hai2
-擡鼓弄	tai2 gu3 nong4
 擢髮抽腸	zhuo2 fa3 chou1 chang2
 擢髮難數	zhuo2 fa3 nan2 shu3
 擣虛撇抗	dao3 xu1 pie1 kang4
