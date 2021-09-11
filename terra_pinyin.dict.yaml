@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2021.09.11"
+version: "2021.08.05"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -8679,6 +8679,7 @@ min_phrase_weight: 100
 卯	mao3
 印	yin4
 危	wei1
+危	wei2
 危	wei2
 卲	shao4
 即	ji2
