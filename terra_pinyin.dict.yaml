@@ -7263,6 +7263,7 @@ min_phrase_weight: 100
 亲	xin1	10%
 亲	zhen1	90%
 亳	bo2
+亳	bo4
 亴	you4
 亵	xie4
 亶	dan3
@@ -7802,6 +7803,7 @@ min_phrase_weight: 100
 偻	lou2
 偼	jie2
 偽	wei3
+偽	wei4
 偾	fen4
 偿	chang2
 傀	gui1	50%
@@ -8342,6 +8344,7 @@ min_phrase_weight: 100
 剔	ti1
 剕	fei4
 剖	pou1
+剖	pou3
 剗	chan3
 剗	chan4
 剘	qi2
@@ -8395,6 +8398,7 @@ min_phrase_weight: 100
 剻	peng3
 剼	shan1
 剽	piao1
+剽	piao4
 剾	kou1
 剿	chao1	50%
 剿	jiao3	50%
@@ -8411,6 +8415,7 @@ min_phrase_weight: 100
 劈	pi3	10%
 劉	liu2
 劊	gui4
+劊	kuai4
 劋	chao1
 劋	jiao3
 劌	gui4
@@ -8674,6 +8679,8 @@ min_phrase_weight: 100
 卯	mao3
 印	yin4
 危	wei1
+危	wei2
+危	wei2
 卲	shao4
 即	ji2
 却	que4
@@ -9025,6 +9032,7 @@ min_phrase_weight: 100
 咂	za1
 咃	tuo1
 咄	duo1
+咄	duo4
 咅	pou3
 咆	pao2
 咇	bi4
@@ -9675,6 +9683,7 @@ min_phrase_weight: 100
 噶	ga2
 噷	hen4
 噸	dun1
+噸	dun4
 噹	dang1
 噺	xin1
 噻	sai1
@@ -9897,6 +9906,7 @@ min_phrase_weight: 100
 圱	su2
 圲	qian1
 圳	zhen4
+圳	zun4
 圴	zhuo2
 圵	dang4
 圶	qia4
@@ -9925,6 +9935,7 @@ min_phrase_weight: 100
 坉	dun4
 坉	tun2
 坊	fang1
+坊	fang2
 坋	fen4
 坌	ben4
 坍	tan1
@@ -10191,6 +10202,7 @@ min_phrase_weight: 100
 堢	bao3
 堣	yu2
 堤	di1
+堤	ti2
 堥	mao2
 堥	mou2
 堥	wu3
@@ -10385,6 +10397,7 @@ min_phrase_weight: 100
 壏	xian4
 壐	xi3
 壑	he4
+壑	huo4
 壒	ai4
 壓	ya1	99%
 壓	ya4	1%
@@ -10710,6 +10723,7 @@ min_phrase_weight: 100
 姡	huo2
 姢	juan1
 姣	jiao1
+姣	jiao3
 姤	gou4
 姥	lao3	90%
 姥	mu3	10%
@@ -11285,6 +11299,7 @@ min_phrase_weight: 100
 宿	xiu4	5%
 寀	cai4
 寁	zan3
+寂	ji2
 寂	ji4
 寃	yuan1
 寄	ji4
@@ -12695,6 +12710,7 @@ min_phrase_weight: 100
 悂	pi1
 悂	pi3
 悃	kun3
+悄	qiao1
 悄	qiao3
 悅	yue4
 悆	yu4
@@ -12779,6 +12795,7 @@ min_phrase_weight: 100
 惊	jing1	0%
 惊	liang2
 惋	wan3
+惋	wan4
 惌	yuan1
 惍	jin1
 惎	ji4
@@ -13140,6 +13157,7 @@ min_phrase_weight: 100
 懼	ju4
 懽	huan1
 懾	she4
+懾	zhe2
 懿	yi4
 戀	lian4
 戁	nan3
@@ -13395,6 +13413,7 @@ min_phrase_weight: 100
 拌	ban4
 拍	pai1
 拎	lin1
+拎	ling1
 拏	na2
 拐	guai3
 拑	qian2
@@ -13408,6 +13427,7 @@ min_phrase_weight: 100
 拗	niu4	50%
 拘	ju1
 拙	zhuo1
+拙	zhuo2
 拚	pan4	50%
 拚	pin1	50%
 招	zhao1
@@ -14006,6 +14026,7 @@ min_phrase_weight: 100
 撫	fu3
 撬	qiao4
 播	bo1
+播	bo4
 撮	cuo1
 撯	zhuo2
 撰	zhuan4
@@ -14028,6 +14049,7 @@ min_phrase_weight: 100
 撿	jian3
 擀	gan3
 擁	yong1
+擁	yong3
 擂	lei2	50%
 擂	lei4	50%
 擃	nang3
@@ -14094,6 +14116,7 @@ min_phrase_weight: 100
 擴	kuo4
 擵	mo2
 擶	jian4
+擷	jie2
 擷	xie2
 擸	lie4
 擹	tan1
@@ -14420,7 +14443,9 @@ min_phrase_weight: 100
 昑	qin3
 昒	hu1
 易	yi4
+昔	cuo4
 昔	xi1
+昔	xi2
 昕	xin1
 昖	yan2
 昗	ze4
@@ -15653,6 +15678,7 @@ min_phrase_weight: 100
 樵	qiao2
 樶	zui1
 樷	cong2
+樸	pu2
 樸	pu3
 樹	shu4
 樺	hua4
@@ -15773,6 +15799,7 @@ min_phrase_weight: 100
 檚	chu3
 檛	zhua1
 檜	gui4
+檜	kuai4
 檜	hui4
 檝	ji2
 檞	jie3
@@ -16290,6 +16317,7 @@ min_phrase_weight: 100
 汏	da4
 汏	tai4
 汐	xi1
+汐	xi4
 汑	tuo1
 汒	mang2
 汒	mang3
@@ -17347,6 +17375,7 @@ min_phrase_weight: 100
 濢	zui3
 濣	wo4
 濤	tao1
+濤	tao2
 濥	yin3
 濦	yin3
 濧	dui4
@@ -17817,6 +17846,7 @@ min_phrase_weight: 100
 熂	xi4
 熃	wu4
 熄	xi1
+熄	xi2
 熅	yun4
 熆	he2
 熇	kao3
@@ -18551,6 +18581,7 @@ min_phrase_weight: 100
 琈	fu2
 琉	liu2
 琊	ya2
+琊	ye2
 琋	xi1
 琌	ling2
 琍	li2
@@ -20425,6 +20456,7 @@ min_phrase_weight: 100
 穴	xue4
 穵	wa1
 究	jiu1
+究	jiu4
 穷	qiong2
 穸	xi1
 穹	qiong2
@@ -20807,6 +20839,7 @@ min_phrase_weight: 100
 篆	zhuan4
 篇	pian1
 篈	feng1
+築	zhu2
 築	zhu4
 篊	hong2
 篊	huang2
@@ -21310,6 +21343,7 @@ min_phrase_weight: 100
 綌	xi4
 綍	fu2
 綎	ting1
+綏	sui1
 綏	sui2
 綐	dui4
 綑	kun3
@@ -21324,6 +21358,7 @@ min_phrase_weight: 100
 続	xu4
 綛	ren3
 綜	zeng4	0%
+綜	zong4
 綜	zong1	100%
 綝	chen1
 綝	shen1
@@ -21399,6 +21434,7 @@ min_phrase_weight: 100
 緛	ruan4
 緜	mian2
 緝	ji1	50%
+緝	qi4
 緝	qi1	50%
 緞	duan4
 緟	chong2
@@ -21473,6 +21509,7 @@ min_phrase_weight: 100
 縙	rong3
 縙	rong4
 縚	tao1
+縛	fu2
 縛	fu4
 縜	yun2
 縝	zhen3
@@ -21835,6 +21872,7 @@ min_phrase_weight: 100
 罱	lan3
 罱	nan3
 署	shu3
+署	shu4
 罳	si1
 罴	pi2
 罵	ma4
@@ -22706,6 +22744,7 @@ min_phrase_weight: 100
 艕	bang4
 艖	cha1
 艗	yi4
+艘	sao1
 艘	sou1
 艙	cang1
 艚	cao2
@@ -23198,6 +23237,7 @@ min_phrase_weight: 100
 菻	lin3
 菼	tan3
 菽	shu1
+菽	shu2
 菾	tian2
 菿	dao3
 菿	dao4
@@ -23658,6 +23698,7 @@ min_phrase_weight: 100
 薅	hao1
 薆	ai4
 薇	wei1
+薇	wei2
 薈	hui4
 薉	wei4
 薊	ji4
@@ -23771,6 +23812,7 @@ min_phrase_weight: 100
 藧	huan4
 藨	biao1
 藩	fan1
+藩	fan2
 藪	sou3
 藫	tan2
 藬	tui1
@@ -24321,6 +24363,7 @@ min_phrase_weight: 100
 蟂	xiao1
 蟃	wan4
 蟄	zhe2
+蟄	zhi2
 蟅	zhe4
 蟆	ma2	50%
 蟆	ma5	50%
@@ -25277,7 +25320,9 @@ min_phrase_weight: 100
 諴	xian2
 諵	nan2
 諶	chen2
+諷	feng1
 諷	feng3
+諷	feng4
 諸	zhu1
 諹	yang2
 諺	yan4
@@ -25293,6 +25338,7 @@ min_phrase_weight: 100
 謃	xing1
 謄	teng2
 謅	zhou1
+謅	zou1
 謆	shan4
 謇	jian3
 謈	pao2
@@ -26265,6 +26311,7 @@ min_phrase_weight: 100
 蹆	tui3
 蹇	jian3
 蹈	dao3
+蹈	dao4
 蹉	cuo1
 蹊	xi1
 蹋	ta4
@@ -26293,6 +26340,7 @@ min_phrase_weight: 100
 蹜	suo1
 蹝	xi3
 蹞	kui3
+蹟	ji1
 蹟	ji4
 蹠	zhi2
 蹡	qiang1
@@ -26307,6 +26355,7 @@ min_phrase_weight: 100
 蹩	bie2
 蹪	tui2
 蹫	ju2
+蹬	deng4
 蹬	deng4
 蹭	ceng4
 蹮	xian1
@@ -26664,6 +26713,7 @@ min_phrase_weight: 100
 辯	bian4
 辰	chen2
 辱	ru3
+辱	ru4
 農	nong2
 辳	nong2
 辴	chan3
@@ -27542,6 +27592,7 @@ min_phrase_weight: 100
 銥	yi1
 銦	yin1
 銧	guang1
+銨	an1
 銨	an3
 銩	diu1
 銪	you3
@@ -27564,6 +27615,7 @@ min_phrase_weight: 100
 銹	xiu4
 銺	zang4
 銻	ti1
+銻	ti4
 銼	cuo4
 銽	gua1
 銾	gong3
@@ -28715,6 +28767,7 @@ min_phrase_weight: 100
 隺	que4
 隻	zhi1
 隼	sun3
+隼	zhun3
 隽	juan4
 隽	jun4
 难	nan2
@@ -29103,6 +29156,7 @@ min_phrase_weight: 100
 頕	dian4
 頖	pan4
 頗	po1
+頗	po3
 領	ling3
 頙	che4
 頚	jing3
@@ -29560,6 +29614,7 @@ min_phrase_weight: 100
 馲	tuo1
 馲	zhe2
 馳	chi2
+馴	xun2
 馴	xun4
 馵	zhu4
 馶	shi4
