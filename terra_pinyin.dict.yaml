@@ -14442,7 +14442,7 @@ min_phrase_weight: 100
 昑	qin3
 昒	hu1
 易	yi4
-昔	cuo4
+昔	cuo4	%0
 昔	xi1
 昔	xi2
 昕	xin1
@@ -21432,9 +21432,9 @@ min_phrase_weight: 100
 緛	ruan3
 緛	ruan4
 緜	mian2
-緝	ji1	50%
+緝	ji1
 緝	qi4
-緝	qi1	50%
+緝	qi1
 緞	duan4
 緟	chong2
 緟	zhong4
