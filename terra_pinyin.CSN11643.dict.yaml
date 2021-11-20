@@ -1,0 +1,29 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Terra Pinyin - 地球拼音
+#
+# * 2021-11-23  Shiki Suen <shikisuen@pm.me>
+#   - 詞庫徹底清洗，以通用規範漢字表為基礎+少量擴充
+#
+# referenced works:
+# CC-CEDICT
+# community maintained free chinese-english dictionary.
+#
+# published by MDBG
+#
+# license:
+# creative commons attribution-share alike 3.0
+# http://creativecommons.org/licenses/by-sa/3.0/
+#
+# http://cc-cedict.org/wiki/
+#
+---
+name: terra_pinyin.CNS11643
+version: "2021.08.05"
+sort: by_weight
+use_preset_vocabulary: true
+max_phrase_length: 7
+min_phrase_weight: 100
+...
+
