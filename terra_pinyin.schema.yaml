@@ -59,7 +59,7 @@ speller:
     - abbrev/^([zcs]h).+$/$1/
     - derive/^([nl])ve/$1ue/
     - derive/^([jqxy])u/$1v/
-    - derive/un$/uen/
+    - derive/([dtnlgkhrzcs])un/$1uen/
     - derive/ui/uei/
     - derive/iu/iou/
     - derive/ao/oa/
@@ -80,6 +80,7 @@ translator:
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
+    - xform/([nl])üen/$1uen/
     - xform/([jqxy])v/$1u/
     - xform/eh/ê/
     - 'xform ([aeiou])(ng?|r)([-;/<,>\\]) $1$3$2'
