@@ -9912,6 +9912,8 @@ min_phrase_weight: 100
 圧	ya1
 在	zai4
 圩	wei2
+圩	yu2
+圩	xu2
 圪	ge1
 圫	yu4
 圫	zhun1
@@ -9953,6 +9955,7 @@ min_phrase_weight: 100
 坉	dun4
 坉	tun2
 坊	fang1
+坊	fang2
 坋	fen4
 坌	ben4
 坍	tan1
@@ -14793,7 +14796,9 @@ min_phrase_weight: 100
 朱	zhu1
 朲	ren2
 朳	ba1
-朴	po4
+朴	piao2	50%
+朴	po4	0.63%
+朴	pu2	55.16%
 朵	duo3
 朶	duo3
 朷	dao1
@@ -16419,7 +16424,8 @@ min_phrase_weight: 100
 沉	chen2	100%
 沊	dan4
 沋	you2
-沌	dun4
+沌	dun4	100%
+沌	zhuan4	0%
 沍	hu4
 沎	huo4
 沏	qi1
@@ -17584,7 +17590,8 @@ min_phrase_weight: 100
 炃	ben4
 炃	fen2
 炄	niu3
-炅	gui4
+炅	gui4	50%
+炅	jiong3	50%
 炆	wen2
 炇	po4
 炈	yi4
@@ -21413,7 +21420,8 @@ min_phrase_weight: 100
 綞	duo3
 綟	li4
 綟	lie4
-綠	lv4
+綠	lu4	0.74%
+綠	lv4	99.26%
 綡	liang2
 綢	chou2
 綣	quan3
@@ -24953,7 +24961,9 @@ min_phrase_weight: 100
 要	yao1	5%
 要	yao4	95%
 覂	feng3
-覃	tan2
+覃	qin2	80%
+覃	tan2	10%
+覃	yan3	10%
 覄	fu4
 覅	fiao4
 覆	fu4
@@ -49209,6 +49219,7 @@ min_phrase_weight: 100
 之死靡它	zhi1 si3 mi3 tuo1
 之間	zhi1 jian1
 乍入蘆圩	zha4 ru4 lu2 yu2
+乍入蘆圩	zha4 ru4 lu2 wei2
 乍得	zha4 de2
 乍得湖	zha4 de2 hu2
 乍暖還寒	zha4 nuan3 huan2 han2
@@ -49254,7 +49265,7 @@ min_phrase_weight: 100
 乙種國民兵役	yi3 zhong3 guo2 min2 bing1 yi4
 乙種射線	yi3 zhong3 she4 xian4
 乙種粒子	yi3 zhong3 li4 zi3
-乙醯胺吡咯烷酮	yi3 xian1 an4 bi3 luo4 wan2 tong2
+乙醯胺吡咯烷酮	yi3 xi1 an4 bi3 luo4 wan2 tong2
 乜乜踅踅	mie1 mie1 xue2 xue2
 乜斜	mie1 xie5
 乜斜眼	mie1 xie5 yan3
@@ -58516,9 +58527,14 @@ min_phrase_weight: 100
 在這期間	zai4 zhe4 qi1 jian1
 在那兒	zai4 na5 r5
 在高處	zai4 gao1 chu4
+圩堤	yu2 di1
+圩堤	wei2 di1
 圩堤	yu2 ti2
+圩堤	wei2 ti2
 圩子	yu2 zi5
+圩子	wei2 zi5
 圩田	yu2 tian2
+圩田	wei2 tian2
 圮地	pi3 di4
 地丁	di4 ding1
 地丁錢糧	di4 ding1 qian2 liang2
@@ -64034,7 +64050,7 @@ min_phrase_weight: 100
 廈門大學	xia4 men2 da4 xue2
 廈門市	xia4 men2 shi4
 廉白	lian2 bo2
-廊坊地區	lang2 fang1 di4 qu1
+廊坊地區	lang2 fang2 di4 qu1
 廊子	lang2 zi5
 廊廡	lang2 wu3
 廓爾喀人	kuo4 er3 ke4 ren2
@@ -83987,6 +84003,7 @@ min_phrase_weight: 100
 綠地	lv4 di4
 綠壩·花季護航	lv4 ba4 hua1 ji4 hu4 hang2
 綠帽子	lv4 mao4 zi5
+綠林	lu4 lin2
 綠椿象	lv4 chun1 xiang4
 綠泥石	lv4 ni2 shi2
 綠瑩瑩	lv4 ying1 ying1
