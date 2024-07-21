@@ -50850,6 +50850,7 @@ min_phrase_weight: 100
 便安	pian2 an1
 便官	bian4 guan1
 便宜	bian4 yi2
+便宜	pian2 yi2
 便宜	pian2 yi5
 便宜不過當家	pian2 yi5 bu2 guo4 dang1 jia1
 便宜主義	pian2 yi5 zhu3 yi4
@@ -71036,6 +71037,7 @@ min_phrase_weight: 100
 明珠彈雀	ming2 zhu1 tan2 que4
 明珠生蚌	ming2 zhu1 sheng1 bang4
 明當	ming2 dang4
+明白	ming2 bai2
 明白	ming2 bai5
 明白人	ming2 bai5 ren2
 明盛	ming2 sheng4
@@ -71354,6 +71356,7 @@ min_phrase_weight: 100
 暑假	shu3 jia4
 暑期	shu3 qi2
 暑期學校	shu3 qi2 xue2 xiao4
+暖和	nuan3 huo2
 暖和	nuan3 huo5
 暖和和	nuan3 huo1 huo1
 暖姝	xuan1 shu1
@@ -72309,6 +72312,7 @@ min_phrase_weight: 100
 木鋸	mu4 ju4
 木雕泥塑	mu4 diao1 ni2 su4
 木難	mu4 nan2
+木頭	mu4 tou2
 木頭	mu4 tou5
 木頭人	mu4 tou5 ren2
 木頭似的	mu4 tou5 si4 de5
@@ -72658,6 +72662,7 @@ min_phrase_weight: 100
 枕蓆兒	zhen3 xi2 r5
 枕藉	zhen3 jie4
 枕藉	zhen4 jie4
+枕頭	zhen3 tou2
 枕頭	zhen3 tou5
 枕頭套	zhen3 tou5 tao4
 枕頭箱	zhen3 tou5 xiang1
@@ -81318,6 +81323,7 @@ min_phrase_weight: 100
 石膏繃帶	shi2 gao1 beng1 dai4
 石英玻璃	shi2 ying1 bo1 li5
 石英脈	shi2 ying1 mai4
+石頭	shi2 tou2
 石頭	shi2 tou5
 石頭火鍋	shi2 tou5 huo3 guo1
 石頭草	shi2 tou5 cao3
@@ -89093,6 +89099,7 @@ min_phrase_weight: 100
 衣單食薄	yi1 dan1 shi2 bo2
 衣帛食肉	yi4 bo2 shi2 rou4
 衣帽間	yi1 mao4 jian1
+衣服	yi1 fu2
 衣服	yi1 fu5
 衣服縫邊	yi1 fu2 feng4 bian1
 衣架子	yi1 jia4 zi5
@@ -90192,6 +90199,7 @@ min_phrase_weight: 100
 認爲	ren4 wei2
 認知失調	ren4 zhi1 shi1 tiao2
 認親	ren4 qin1
+認識	ren4 shi4
 認識	ren4 shi5
 認識不能	ren4 shi5 bu4 neng2
 認識論	ren4 shi5 lun4
