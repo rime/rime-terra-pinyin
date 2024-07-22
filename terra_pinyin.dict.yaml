@@ -47431,8 +47431,11 @@ min_phrase_weight: 100
 一場空	yi4 chang2 kong1
 一場空	yi4 chang3 kong1
 一塊兒	yi2 kuai4 r5
+一塊石頭拋上天	yi2 kuai4 shi2 tou2 pao1 shang4 tian1
 一塊石頭拋上天	yi2 kuai4 shi2 tou5 pao1 shang4 tian1
+一塊石頭掉井裏	yi2 kuai4 shi2 tou2 diao4 jing3 li3
 一塊石頭掉井裏	yi2 kuai4 shi2 tou5 diao4 jing3 li3
+一塊石頭落了地	yi2 kuai4 shi2 tou2 luo4 le5 di4
 一塊石頭落了地	yi2 kuai4 shi2 tou5 luo4 le5 di4
 一塌糊塗	yi4 ta1 hu2 tu2
 一塌糊塗	yi4 ta1 hu2 tu5
@@ -48339,6 +48342,7 @@ min_phrase_weight: 100
 不大離	bu2 da4 li2
 不大離兒	bu2 da4 li2 r5
 不太好	bu2 tai4 hao3
+不太明白	bu2 tai4 ming2 bai2
 不太明白	bu2 tai4 ming2 bai5
 不失爲	bu4 shi1 wei2
 不好	bu2 hao4
@@ -49494,6 +49498,7 @@ min_phrase_weight: 100
 乾餱以愆	gan1 hou2 yi3 qian1
 乾餾	gan1 liu2
 乾餾	gan1 liu4
+乾魚與貓作枕頭	gan1 yu2 yu3 mao1 zuo4 zhen3 tou2
 乾魚與貓作枕頭	gan1 yu2 yu3 mao1 zuo4 zhen3 tou5
 乾麪	gan1 mian4
 亂亂騰騰	luan4 luan5 teng1 teng1
@@ -50536,6 +50541,7 @@ min_phrase_weight: 100
 住處	zhu4 chu4
 佐格比國際	zuo3 ge2 bi4 guo2 ji4
 佐饔得嘗	zuo3 yong1 de2 chang2
+佔便宜	zhan4 pian2 yi2
 佔便宜	zhan4 pian2 yi5
 佔爲己有	zhan4 wei2 ji3 you3
 佔畢	zhan1 bi4
@@ -50852,7 +50858,9 @@ min_phrase_weight: 100
 便宜	bian4 yi2
 便宜	pian2 yi2
 便宜	pian2 yi5
+便宜不過當家	pian2 yi2 bu2 guo4 dang1 jia1
 便宜不過當家	pian2 yi5 bu2 guo4 dang1 jia1
+便宜主義	pian2 yi2 zhu3 yi4
 便宜主義	pian2 yi5 zhu3 yi4
 便宜從事	bian4 yi2 cong2 shi4
 便宜施行	bian4 yi2 shi1 xing2
@@ -50861,7 +50869,9 @@ min_phrase_weight: 100
 便宜處分	bian4 yi2 chu3 fen4
 便宜處置	bian4 yi2 chu3 zhi4
 便宜行事	bian4 yi2 xing2 shi4
+便宜話	pian2 yi2 hua4
 便宜話	pian2 yi5 hua4
+便宜貨	pian2 yi2 huo4
 便宜貨	pian2 yi5 huo4
 便宴	bian4 yan4
 便家	bian4 jia1
@@ -52221,6 +52231,7 @@ min_phrase_weight: 100
 光景	guang1 jing5
 光暈	guang1 yun4
 光期性	guang1 qi2 xing4
+光木頭上鑽眼	guang1 mu4 tou2 shang4 zuan1 yan3
 光木頭上鑽眼	guang1 mu4 tou5 shang5 zuan1 yan3
 光棍	guang1 gun4
 光棍	guang1 gun5
@@ -55201,7 +55212,9 @@ min_phrase_weight: 100
 占上風	zhan4 shang4 feng1
 占主導地位	zhan4 zhu3 dao3 di4 wei4
 占人	zhan1 ren2
+占便宜	zhan4 pian2 yi2
 占便宜	zhan4 pian2 yi5
+占便宜的是獃	zhan4 pian2 yi2 de5 shi4 dai1
 占便宜的是獃	zhan4 pian2 yi5 de5 shi4 dai1
 占候	zhan1 hou4
 占優	zhan4 you1
@@ -55231,6 +55244,7 @@ min_phrase_weight: 100
 占爲己有	zhan4 wei2 ji3 you3
 占用	zhan4 yong4
 占盡便宜	zhan4 jin4 pian2 yi5
+占盡便宜	zhan4 jin4 pian2 yi2
 占着茅坑不拉屎	zhan4 zhe5 mao2 keng1 bu4 la1 shi3
 占花魁	zhan4 hua1 kui2
 占親	zhan1 qin1
@@ -56474,7 +56488,10 @@ min_phrase_weight: 100
 含沙量	han2 sha1 liang4
 含混	han2 hun3
 含片	han2 pian4
+含着骨頭露着肉	han2 zhe5 gu2 tou2 lou4 zhe5 rou4
+含着骨頭露着肉	han2 zhe5 gu3 tou2 lou4 zhe5 rou4
 含着骨頭露着肉	han2 zhe5 gu2 tou5 lou4 zhe5 rou4
+含着骨頭露着肉	han2 zhe5 gu3 tou5 lou4 zhe5 rou4
 含笑入地	han2 xiao4 ru4 di4
 含糊	han2 hu2
 含糊不清	han2 hu2 bu4 qing1
@@ -56790,6 +56807,7 @@ min_phrase_weight: 100
 和尚在	he2 shang4 zai4
 和尚打傘	he2 shang4 da3 san3
 和尚打傘	he2 shang5 da3 san3
+和尚拖木頭	he2 shang4 tuo1 mu4 tou2
 和尚拖木頭	he2 shang4 tuo1 mu4 tou5
 和尚無兒孝子多	he2 shang4 wu2 er2 xiao4 zi3 duo1
 和尚跟着月亮走	he2 shang4 gen1 zhe5 yue4 liang4 zou3
@@ -57336,7 +57354,10 @@ min_phrase_weight: 100
 唿喇喇	hu1 la4 la4
 啁哳	zhou1 zha2
 啁噍	zhou1 jiu1
+啃骨頭	ken3 gu2 tou2
+啃骨頭	ken3 gu3 tou2
 啃骨頭	ken3 gu2 tou5
+啃骨頭	ken3 gu3 tou5
 啅啅	zhuo2 zhuo2
 啅噪	zhuo2 zao4
 商丘地區	shang1 qiu1 di4 qu1
@@ -57680,7 +57701,10 @@ min_phrase_weight: 100
 喫乾醋	chi1 gan1 cu4
 喫人一個蛋	chi1 ren2 yi2 ge5 dan4
 喫人不吐骨	chi1 ren2 bu4 tu3 gu3
+喫人不吐骨頭	chi1 ren2 bu4 tu3 gu2 tou2
+喫人不吐骨頭	chi1 ren2 bu4 tu3 gu3 tou2
 喫人不吐骨頭	chi1 ren2 bu4 tu3 gu2 tou5
+喫人不吐骨頭	chi1 ren2 bu4 tu3 gu3 tou5
 喫勁	chi1 jin4
 喫啞吧虧	chi1 ya3 ba5 kui1
 喫喝不分	chi1 he1 bu4 fen1
@@ -57709,6 +57733,7 @@ min_phrase_weight: 100
 喫苦頭	chi1 ku3 tou5
 喫葷飯	chi1 hun1 fan4
 喫虧上當	chi1 kui1 shang4 dang4
+喫虧就是占便宜	chi1 kui1 jiu4 shi4 zhan4 pian2 yi2
 喫虧就是占便宜	chi1 kui1 jiu4 shi4 zhan4 pian2 yi5
 喫蝨子留後腿	chi1 shi1 zi5 liu2 hou4 tui3
 喫裏扒外	chi1 li3 pa2 wai4
@@ -58405,6 +58430,7 @@ min_phrase_weight: 100
 圓活	yuan2 huo2
 圓活	yuan2 huo5
 圓熟	yuan2 shu2
+圓石頭	yuan2 shi2 tou2
 圓石頭	yuan2 shi2 tou5
 圓籠	yuan2 long5
 圓舞曲	yuan2 wu3 qu3
@@ -60847,6 +60873,7 @@ min_phrase_weight: 100
 好貨	hao3 huo4
 好貨	hao4 huo4
 好貨不便宜	hao3 huo4 bu4 pian2 yi2
+好貨不便宜	hao3 huo4 bu4 pian2 yi5
 好賢禮士	hao4 xian2 li3 shi4
 好賭	hao4 du3
 好轉	hao3 zhuan3
@@ -61169,6 +61196,9 @@ min_phrase_weight: 100
 嫡長子	di2 zhang3 zi3
 嫦娥奔月	chang2 e2 ben1 yue4
 嫩江地區	nen4 jiang1 di4 qu1
+嫩骨頭	nen4 gu3 tou2
+嫩骨頭	nen4 gu3 tou5
+嫩骨頭	nen4 gu2 tou2
 嫩骨頭	nen4 gu2 tou5
 嫶妍	qiao2 yan2
 嫺淑	xian2 shu2
@@ -62477,6 +62507,7 @@ min_phrase_weight: 100
 小便	xiao3 bian4
 小便器	xiao3 bian4 qi4
 小便宜	xiao3 pian2 yi2
+小便宜	xiao3 pian2 yi5
 小倆口	xiao3 liang3 kou3
 小傳	xiao3 zhuan4
 小先生	xiao3 xian1 sheng5
@@ -64208,6 +64239,7 @@ min_phrase_weight: 100
 弄文	nong4 wen2
 弄文輕武	nong4 wen2 qing1 wu3
 弄斧班門	nong4 fu3 ban1 men2
+弄明白	nong4 ming2 bai2
 弄明白	nong4 ming2 bai5
 弄月	nong4 yue4
 弄月嘲風	nong4 yue4 chao2 feng1
@@ -64891,7 +64923,9 @@ min_phrase_weight: 100
 得來不易	de2 lai2 bu2 yi4
 得來全不費工夫	de2 lai2 quan2 bu2 fei4 gong1 fu5
 得來速	de2 lai2 su4
+得便宜是落便宜	de2 pian2 yi2 shi4 luo4 pian2 yi2
 得便宜是落便宜	de2 pian2 yi5 shi4 luo4 pian2 yi5
+得便宜處失便宜	de2 pian2 yi2 chu4 shi1 pian2 yi2
 得便宜處失便宜	de2 pian2 yi5 chu4 shi1 pian2 yi5
 得償所願	de2 chang2 suo3 yuan4
 得先手	de2 xian1 shou3
@@ -66124,6 +66158,7 @@ min_phrase_weight: 100
 感化餅乾	gan3 hua4 bing3 gan1
 感天動地	gan3 tian1 dong4 di4
 感性知識	gan3 xing4 zhi1 shi4
+感性認識	gan3 xing4 ren4 shi4
 感性認識	gan3 xing4 ren4 shi5
 感恩荷德	gan3 en1 he4 de2
 感應	gan3 ying4
@@ -66437,6 +66472,8 @@ min_phrase_weight: 100
 懶洋洋	lan3 yang1 yang1
 懶洋洋	lan3 yang2 yang2
 懶驢上磨屎尿多	lan3 lv2 shang4 mo4 shi3 niao4 duo1
+懶骨頭	lan3 gu2 tou2
+懶骨頭	lan3 gu3 tou2
 懶骨頭	lan3 gu2 tou5
 懶骨頭	lan3 gu3 tou5
 懷刺漫滅	huai2 ci4 man4 mie4
@@ -68669,6 +68706,7 @@ min_phrase_weight: 100
 掯勒	ken4 le4
 掰交情	bai1 jiao1 qing5
 揀便宜	jian3 pian2 yi2
+揀便宜	jian3 pian2 yi5
 揀衣挑食	jian3 yi1 tiao1 shi2
 揃平	jian3 ping2
 揄狄	yao2 di2
@@ -68889,6 +68927,7 @@ min_phrase_weight: 100
 搬弄是非	ban1 nong4 shi4 fei1
 搬挑	ban1 tiao3
 搬斤播兩	ban1 jin1 bo4 liang3
+搬石頭砸自己的腳	ban1 shi2 tou2 za2 zi4 ji3 de5 jiao3
 搬石頭砸自己的腳	ban1 shi2 tou5 za2 zi4 ji3 de5 jiao3
 搬脣弄舌	ban1 chun2 long4 she2
 搬調	ban1 tiao2
@@ -69042,7 +69081,9 @@ min_phrase_weight: 100
 摸盲盲	mo1 mang2 mang2
 摸着	mo1 zhao2
 摸着石頭過河	mo1 zhe5 shi2 tou2 guo4 he2
+摸着石頭過河	mo1 zhe5 shi2 tou5 guo4 he2
 摸瞎	mo1 xia1
+摸石頭過河	mo1 shi2 tou2 guo4 he2
 摸石頭過河	mo1 shi2 tou5 guo4 he2
 摸秋	mo1 qiu1
 摸米桶	mo1 mi3 tong3
@@ -69375,6 +69416,7 @@ min_phrase_weight: 100
 撼天動地	han4 tian1 dong4 di4
 撼天震地	han4 tian1 zhen4 di4
 撿便宜	jian3 pian2 yi2
+撿便宜	jian3 pian2 yi5
 撿場	jian3 chang2
 擁入	yong3 ru4
 擁兵	yong3 bing1
@@ -71039,6 +71081,7 @@ min_phrase_weight: 100
 明當	ming2 dang4
 明白	ming2 bai2
 明白	ming2 bai5
+明白人	ming2 bai2 ren2
 明白人	ming2 bai5 ren2
 明盛	ming2 sheng4
 明瞭	ming2 liao3
@@ -71359,6 +71402,7 @@ min_phrase_weight: 100
 暖和	nuan3 huo2
 暖和	nuan3 huo5
 暖和和	nuan3 huo1 huo1
+暖和和	nuan3 huo2 huo2
 暖姝	xuan1 shu1
 暖暖	xuan1 xuan1
 暖氣片	nuan3 qi4 pian4
@@ -71998,6 +72042,9 @@ min_phrase_weight: 100
 有關係	you3 guan1 xi5
 有限小數	you3 xian4 xiao3 shu4
 有難同當	you3 nan4 tong2 dang1
+有骨頭	you3 gu2 tou2
+有骨頭	you3 gu2 tou5
+有骨頭	you3 gu3 tou2
 有骨頭	you3 gu2 tou5
 有髮頭陀寺	you3 fa3 tou2 tuo2 si4
 有魂沒識	you3 hun2 mei2 shi4
@@ -72314,7 +72361,9 @@ min_phrase_weight: 100
 木難	mu4 nan2
 木頭	mu4 tou2
 木頭	mu4 tou5
+木頭人	mu4 tou2 ren2
 木頭人	mu4 tou5 ren2
+木頭似的	mu4 tou2 si4 de5
 木頭似的	mu4 tou5 si4 de5
 木餾油	mu4 liu4 you2
 木骨都束	mu4 gu3 du1 shu4
@@ -72664,7 +72713,9 @@ min_phrase_weight: 100
 枕藉	zhen4 jie4
 枕頭	zhen3 tou2
 枕頭	zhen3 tou5
+枕頭套	zhen3 tou2 tao4
 枕頭套	zhen3 tou5 tao4
+枕頭箱	zhen3 tou2 xiang1
 枕頭箱	zhen3 tou5 xiang1
 林卡	lin2 ka3
 林口臺地	lin2 kou3 tai2 di4
@@ -75151,7 +75202,10 @@ min_phrase_weight: 100
 沒骨氣	mei2 gu3 qi5
 沒骨畫	mo4 gu3 hua4
 沒骨花卉	mo4 gu3 hua1 hui4
+沒骨頭	mei2 gu2 tou2
+沒骨頭	mei2 gu3 tou2
 沒骨頭	mei2 gu2 tou5
+沒骨頭	mei2 gu3 tou5
 沒魂少智	mei2 hun2 shao3 zhi4
 沒齒	mo4 chi3
 沒齒不忘	mo4 chi3 bu2 wang4
@@ -75265,6 +75319,7 @@ min_phrase_weight: 100
 沼狸	zhao3 li5
 沽名干譽	gu1 ming2 gan1 yu4
 沽酒當爐	gu1 jiu3 dang1 lu2
+沾便宜	zhan1 pian2 yi2
 沾便宜	zhan1 pian2 yi5
 沾染程度檢查儀	zhan1 ran3 cheng2 du4 jian3 cha2 yi2
 沾洽	zhan1 xia2
@@ -78306,7 +78361,10 @@ min_phrase_weight: 100
 狗逮老鼠	gou3 dai4 lao3 shu3
 狗雜種	gou3 za2 zhong3
 狗顛屁股	gou3 dian1 pi4 gu5
+狗骨頭	gou3 gu2 tou2
+狗骨頭	gou3 gu3 tou2
 狗骨頭	gou3 gu2 tou5
+狗骨頭	gou3 gu3 tou5
 狙伺	ju1 si4
 狙刺	ju1 ci4
 狙擊	ju1 ji2
@@ -81325,8 +81383,11 @@ min_phrase_weight: 100
 石英脈	shi2 ying1 mai4
 石頭	shi2 tou2
 石頭	shi2 tou5
+石頭火鍋	shi2 tou2 huo3 guo1
 石頭火鍋	shi2 tou5 huo3 guo1
+石頭草	shi2 tou2 cao3
 石頭草	shi2 tou5 cao3
+石頭餅	shi2 tou2 bing3
 石頭餅	shi2 tou5 bing3
 石鼓	dan4 gu3
 石鼓	shi2 gu3
@@ -81459,7 +81520,10 @@ min_phrase_weight: 100
 硬腦膜	ying4 nao3 mo4
 硬裏子	ying4 li3 zi5
 硬語盤空	ying4 yu3 pan2 kong1
+硬骨頭	ying4 gu2 tou2
+硬骨頭	ying4 gu3 tou2
 硬骨頭	ying4 gu2 tou5
+硬骨頭	ying4 gu3 tou5
 硯水壺兒	yan4 shui3 hu2 r5
 硯臺	yan4 tai5
 硶貨	chen3 huo4
@@ -82709,7 +82773,10 @@ min_phrase_weight: 100
 窮結縣	qiong2 jie2 xian4
 窮途潦倒	qiong2 tu2 liao2 dao3
 窮途落魄	qiong2 tu2 luo4 tuo4
+窮骨頭	qiong2 gu2 tou2
+窮骨頭	qiong2 gu3 tou2
 窮骨頭	qiong2 gu2 tou5
+窮骨頭	qiong2 gu3 tou5
 窮髮	qiong2 fa3
 窯場	yao2 chang3
 窯姐兒	yao2 jie3 r5
@@ -83308,6 +83375,7 @@ min_phrase_weight: 100
 糜費	mi2 fei4
 糜軀碎首	mi2 qu1 sui4 shou3
 糞便	fen4 bian4
+糞坑裏的石頭	fen4 keng1 li3 de5 shi2 tou2
 糞坑裏的石頭	fen4 keng1 li3 de5 shi2 tou5
 糞尿	fen4 niao4
 糞窖子	fen4 jiao4 zi5
@@ -84409,6 +84477,7 @@ min_phrase_weight: 100
 繞行	rao4 xing2
 繞遠兒	rao4 yuan3 r5
 繞騰	rao4 teng5
+繡花枕頭	xiu4 hua1 zhen3 tou2
 繡花枕頭	xiu4 hua1 zhen3 tou5
 繡荷包	xiu4 he2 bao1
 繡閣長春	xiu4 ge2 chang2 chun1
@@ -84969,7 +85038,10 @@ min_phrase_weight: 100
 老頭子	lao3 tou2 zi5
 老馬爲駒	lao3 ma3 wei2 ju1
 老馬識途	lao3 ma3 shi4 tu2
+老骨頭	lao3 gu2 tou2
+老骨頭	lao3 gu3 tou2
 老骨頭	lao3 gu2 tou5
+老骨頭	lao3 gu3 tou5
 老鴰	lao3 gua5
 老鴰窩裏出鳳凰	lao3 gua5 wo1 li3 chu1 feng4 huang2
 老鼠尾巴	lao3 shu3 wei3 ba5
@@ -85007,7 +85079,10 @@ min_phrase_weight: 100
 耍耗子	shua3 hao4 zi5
 耍脾氣	shua3 pi2 qi5
 耍臉子	shua3 lian3 zi5
+耍骨頭	shua3 gu2 tou2
+耍骨頭	shua3 gu3 tou2
 耍骨頭	shua3 gu2 tou5
+耍骨頭	shua3 gu3 tou5
 耐儲大蒜	nai4 chu2 da4 suan4
 耐看	nai4 kan4
 耐着性子	nai4 zhe5 xing4 zi5
@@ -85371,6 +85446,7 @@ min_phrase_weight: 100
 肚裏	du4 li3
 肚裏一輪	du4 li3 yi4 lun2
 肚裏尋思	du4 li3 xun2 si1
+肚裏明白	du4 li3 ming2 bai2
 肚裏明白	du4 li3 ming2 bai5
 肚裏的蛔蟲	du4 li3 de5 hui2 chong2
 肚裏躊躇	du4 li3 chou2 chu2
@@ -86791,6 +86867,8 @@ min_phrase_weight: 100
 茅廁磚頭	mao2 si5 zhuan1 tou5
 茅廁裏的石頭	mao2 ce4 li3 de5 shi2 tou5
 茅廁裏的石頭	mao2 si5 li3 de5 shi2 tou5
+茅廁裏的石頭	mao2 ce4 li3 de5 shi2 tou2
+茅廁裏的石頭	mao2 si5 li3 de5 shi2 tou2
 茆店	mao2 dian4
 茆茨	mao2 ci2
 茇茇	bei4 bei4
@@ -87202,6 +87280,7 @@ min_phrase_weight: 100
 落伍	luo4 wu3
 落作	lao4 zuo1
 落便宜	luo4 pian2 yi2
+落便宜	luo4 pian2 yi5
 落俗	luo4 su2
 落保	luo4 bao3
 落價	lao4 jia4
@@ -88456,7 +88535,10 @@ min_phrase_weight: 100
 螞蜂兒子	ma3 feng1 er2 zi5
 螞蝗見血	ma3 huang2 jian4 xie3
 螞螂	ma1 lang5
+螞蟻啃骨頭	ma3 yi3 ken3 gu2 tou2
+螞蟻啃骨頭	ma3 yi3 ken3 gu3 tou2
 螞蟻啃骨頭	ma3 yi3 ken3 gu2 tou5
+螞蟻啃骨頭	ma3 yi3 ken3 gu3 tou5
 螲蟷	die2 dang4
 螳臂當車	tang2 bi4 dang1 che1
 螵蛸	piao1 xiao1
@@ -89102,6 +89184,7 @@ min_phrase_weight: 100
 衣服	yi1 fu2
 衣服	yi1 fu5
 衣服縫邊	yi1 fu2 feng4 bian1
+衣服縫邊	yi1 fu5 feng4 bian1
 衣架子	yi1 jia4 zi5
 衣甲	yi1 jia3
 衣甲	yi4 jia3
@@ -90016,6 +90099,7 @@ min_phrase_weight: 100
 訌阻	hong2 zu3
 討人喜歡	tao3 ren2 xi3 huan5
 討伐	tao3 fa1
+討便宜	tao3 pian2 yi2
 討便宜	tao3 pian2 yi5
 討個分曉	tao3 ge5 fen1 xiao3
 討價還價	tao3 jia4 huan2 jia4
@@ -90201,7 +90285,9 @@ min_phrase_weight: 100
 認親	ren4 qin1
 認識	ren4 shi4
 認識	ren4 shi5
+認識不能	ren4 shi4 bu4 neng2
 認識不能	ren4 shi5 bu4 neng2
+認識論	ren4 shi4 lun4
 認識論	ren4 shi5 lun4
 認賊爲子	ren4 zei2 wei2 zi3
 誑子	kuang2 zi5
@@ -91041,7 +91127,10 @@ min_phrase_weight: 100
 貧血	pin2 xie3
 貧血病	pin2 xie3 bing4
 貧難	pin2 nan2
+貧骨頭	pin2 gu2 tou2
+貧骨頭	pin2 gu3 tou2
 貧骨頭	pin2 gu2 tou5
+貧骨頭	pin2 gu3 tou5
 貨商場	huo4 shang1 chang3
 貨幣乘數	huo4 bi4 cheng2 shu4
 貨幣供應量	huo4 bi4 gong1 ying4 liang4
@@ -91054,6 +91143,7 @@ min_phrase_weight: 100
 販夫俗子	fan4 fu1 su2 zi5
 販子	fan4 zi5
 販弄	fan4 nong4
+貪便宜	tan1 pian2 yi2
 貪便宜	tan1 pian2 yi5
 貪冒	tan1 mo4
 貪冒榮寵	tan1 mo4 rong2 chong3
@@ -91063,6 +91153,7 @@ min_phrase_weight: 100
 貪婪是萬惡之源	tan1 lan2 shi4 wan4 e4 zhi1 yuan2
 貪安好逸	tan1 an1 hao4 yi4
 貪小便宜	tan1 xiao3 pian2 yi2
+貪小便宜	tan1 xiao3 pian2 yi5
 貪得無厭	tan1 de2 wu2 yan4
 貪杯惜醉人	tan1 bei1 xi2 zui4 ren2
 貪榮冒寵	tan1 rong2 mo4 chong3
@@ -91188,7 +91279,10 @@ min_phrase_weight: 100
 賊沒種	zei2 mei2 zhong3
 賊窩子	zei2 wo1 zi5
 賊虐	ze2 nve4
+賊骨頭	zei2 gu2 tou2
+賊骨頭	zei2 gu3 tou2
 賊骨頭	zei2 gu2 tou5
+賊骨頭	zei2 gu3 tou5
 賊鬼	zei2 gui5
 賑給	zhen4 ji3
 賓夕法尼亞州	bin1 xi4 fa3 ni2 ya3 zhou1
@@ -91277,6 +91371,8 @@ min_phrase_weight: 100
 賤稱	jian4 cheng1
 賤累	jian4 lei3
 賤降	jian4 jiang4
+賤骨頭	jian4 gu2 tou2
+賤骨頭	jian4 gu3 tou2
 賤骨頭	jian4 gu2 tou5
 賤骨頭	jian4 gu3 tou5
 賦得	fu4 de2
@@ -92087,7 +92183,10 @@ min_phrase_weight: 100
 軟耳朵	ruan3 er3 duo5
 軟調脾	ruan3 tiao2 pi2
 軟釘子	ruan3 ding1 zi5
+軟骨頭	ruan3 gu2 tou2
+軟骨頭	ruan3 gu3 tou2
 軟骨頭	ruan3 gu2 tou5
+軟骨頭	ruan3 gu3 tou5
 軟體銀行	ruan3 ti3 yin2 hang2
 軫惜	zhen3 xi2
 軫慨	zhen3 kai4
@@ -92205,7 +92304,10 @@ min_phrase_weight: 100
 輕量貨幣	qing1 liang4 huo4 bi4
 輕音樂	qing1 yin1 yue4
 輕騎	qing1 ji4
+輕骨頭	qing1 gu2 tou2
+輕骨頭	qing1 gu3 tou2
 輕骨頭	qing1 gu2 tou5
+輕骨頭	qing1 gu3 tou5
 輘轢	ling2 li4
 輜重	zi1 zhong4
 輝銻礦	hui1 ti4 kuang4
@@ -93150,6 +93252,7 @@ min_phrase_weight: 100
 道得應得	dao4 de2 ying1 de2
 道德教育	dao4 de2 jiao4 yu4
 道德淪喪	dao4 de2 lun2 sang4
+道德認識	dao4 de2 ren4 shi4
 道德認識	dao4 de2 ren4 shi5
 道教	dao4 jiao4
 道教徒	dao4 jiao4 tu2
@@ -96615,6 +96718,7 @@ min_phrase_weight: 100
 雙棲雙宿	shuang1 qi1 shuang1 su4
 雙槓	shuang1 gang4
 雙殼類	shuang1 ke2 lei4
+雙石頭	shuang1 shi2 tou2
 雙石頭	shuang1 shi2 tou5
 雙線行	shuang1 xian4 hang2
 雙臺子	shuang1 tai2 zi5
@@ -96667,7 +96771,10 @@ min_phrase_weight: 100
 雞肋尊拳	ji1 le4 zun1 quan2
 雞膚鶴髮	ji1 fu1 he4 fa3
 雞蛋殼兒	ji1 dan4 ke2 r5
+雞蛋碰石頭	ji1 dan4 peng4 shi2 tou2
 雞蛋碰石頭	ji1 dan4 peng4 shi2 tou5
+雞蛋裏挑骨頭	ji1 dan4 li3 tiao1 gu2 tou2
+雞蛋裏挑骨頭	ji1 dan4 li3 tiao1 gu3 tou2
 雞蛋裏挑骨頭	ji1 dan4 li5 tiao1 gu2 tou5
 雞蛋裏挑骨頭	ji1 dan4 li5 tiao1 gu3 tou5
 雞蟲得失	ji1 chong2 de2 shi1
@@ -98370,13 +98477,26 @@ min_phrase_weight: 100
 骨都	gu3 du1
 骨都都	gu1 du1 du1
 骨都都	gu3 dou1 dou1
+骨頭	gu2 tou2
+骨頭	gu3 tou2
 骨頭	gu2 tou5
 骨頭	gu3 tou5
+骨頭架子	gu2 tou2 jia4 zi5
+骨頭架子	gu3 tou5 jia4 zi5
 骨頭架子	gu2 tou5 jia4 zi5
 骨頭架子	gu3 tou5 jia4 zi5
+骨頭硬	gu2 tou2 ying4
+骨頭硬	gu3 tou2 ying4
 骨頭硬	gu2 tou5 ying4
+骨頭硬	gu3 tou5 ying4
+骨頭節兒	gu2 tou2 jie2 r5
+骨頭節兒	gu3 tou2 jie2 r5
+骨頭節兒	gu2 tou5 jie2 r5
 骨頭節兒	gu3 tou5 jie2 r5
+骨頭骨腦	gu2 tou2 gu2 nao3
+骨頭骨腦	gu3 tou2 gu3 nao3
 骨頭骨腦	gu2 tou5 gu2 nao3
+骨頭骨腦	gu3 tou5 gu3 nao3
 骨顫肉驚	gu3 zhan4 rou4 jing1
 骫骳	wei3 bi4
 骯髒	ang1 zang1
