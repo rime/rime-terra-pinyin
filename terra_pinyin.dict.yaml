@@ -14084,6 +14084,7 @@ min_phrase_weight: 100
 撿	jian3
 擀	gan3
 擁	yong1
+擁	yong3
 擂	lei2	50%
 擂	lei4	50%
 擃	nang3
@@ -47525,7 +47526,6 @@ min_phrase_weight: 100
 一撥兒	yi4 bo1 r5
 一擁而上	yi4 yong1 er2 shang4
 一擁而上	yi4 yong3 er2 shang4
-一擁而進	yi4 yong3 er2 jin4
 一操	yi4 cao1
 一擲千金	yi2 zhi4 qian1 jin1
 一擲千金	yi4 zhi2 qian1 jin1
@@ -53356,6 +53356,7 @@ min_phrase_weight: 100
 分租	fen1 zu1
 分秧	fen1 yang1
 分立	fen1 li4
+分符擁節	fen1 fu2 yong1 jie2
 分符擁節	fen1 fu2 yong3 jie2
 分筋術	fen1 jin1 shu4
 分筋錯骨	fen1 jin1 cuo4 gu3
@@ -53939,9 +53940,7 @@ min_phrase_weight: 100
 前出後空	qian2 chu1 hou4 kong1
 前半天兒	qian2 ban4 tian1 r5
 前半晌兒	qian2 ban4 shang3 r5
-前向擁塞通知	qian2 xiang4 yong1 sai1 tong1 zhi1
 前呼後應	qian2 hu1 hou4 ying4
-前呼後擁	qian2 hu1 hou4 yong3
 前和	qian2 he2
 前咽	qian2 yan1
 前夕	qian2 xi4
@@ -53952,7 +53951,6 @@ min_phrase_weight: 100
 前度劉郎	qian2 du4 liu2 lang2
 前廊	qian2 lang3
 前意識	qian2 yi4 shi4
-前推後擁	qian2 tui1 hou4 yong3
 前朝	qian2 chao2
 前期	qian2 qi2
 前沿	qian2 yan2
@@ -53970,7 +53968,6 @@ min_phrase_weight: 100
 前車覆	qian2 ju1 fu4
 前載	qian2 zai4
 前途無量	qian2 tu2 wu2 liang4
-前遮後擁	qian2 zhe1 hou4 yong3
 前邊	qian2 bian1
 前邊	qian2 bian5
 前邊兒	qian2 bian5 r5
@@ -54081,7 +54078,6 @@ min_phrase_weight: 100
 剪着	jian3 zhao2
 剪着	jian3 zhe5
 剪票夾	jian3 piao4 jia2
-剪莽擁篲	jian3 mang3 yong3 hui4
 剪頭髮	jian3 tou2 fa5
 剪髮	jian3 fa3
 剪髮披緇	jian3 fa3 pi1 zi1
@@ -58940,8 +58936,6 @@ min_phrase_weight: 100
 坐地分贓	zuo4 di4 fen1 zang1
 坐實	zuo4 shi5
 坐性	zuo4 xing5
-坐擁書城	zuo4 yong3 shu1 cheng2
-坐擁百城	zuo4 yong3 bai3 cheng2
 坐更	zuo4 geng1
 坐月子	zuo4 yue4 zi5
 坐檯子	zuo4 tai2 zi5
@@ -63202,7 +63196,6 @@ min_phrase_weight: 100
 左嗓子	zuo3 sang3 zi5
 左性	zuo3 xing5
 左撇子	zuo3 pie3 zi5
-左擁右抱	zuo3 yong3 you4 bao4
 左行	zuo3 xing2
 左衝右突	zuo3 chong1 you4 tu2
 左轉	zuo3 zhuan3
@@ -64827,10 +64820,6 @@ min_phrase_weight: 100
 後半場	hou4 ban4 chang3
 後天下之樂而樂	hou4 tian1 xia4 zhi1 le4 er2 le4
 後天失調	hou4 tian1 shi1 tiao2
-後擁前呼	hou4 yong3 qian2 hu1
-後擁前推	hou4 yong3 qian2 tui1
-後擁前遮	hou4 yong3 qian2 zhe1
-後擁前驅	hou4 yong3 qian2 qu1
 後擋板	hou4 dang3 ban3
 後會可期	hou4 hui4 ke3 qi2
 後會有期	hou4 hui4 you3 qi2
@@ -68027,7 +68016,6 @@ min_phrase_weight: 100
 持續時間	chi2 xu4 shi2 jian1
 持蠡測海	chi2 li2 ce4 hai3
 持行	chi2 xing2
-持衡擁璇	chi2 heng2 yong3 xuan2
 持質	chi2 zhi4
 持重	chi2 zhong4
 挂冠	gua4 guan1
@@ -69375,28 +69363,8 @@ min_phrase_weight: 100
 撼天震地	han4 tian1 zhen4 di4
 撿便宜	jian3 pian2 yi2
 撿場	jian3 chang2
-擁入	yong3 ru4
-擁兵	yong3 bing1
-擁兵玩寇	yong3 bing1 wan2 kou4
-擁兵自固	yong3 bing1 zi4 gu4
 擁塞	yong1 se4
 擁塞	yong3 se4
-擁彗先驅	yong3 hui4 xian1 qu1
-擁彗迎門	yong3 hui4 ying2 men2
-擁戴	yong3 dai4
-擁抱	yong3 bao4
-擁擠	yong3 ji3
-擁旄	yong3 mao2
-擁書	yong3 shu1
-擁有	yong3 you3
-擁立	yong3 li4
-擁篲	yong3 hui4
-擁篲清道	yong3 hui4 qing1 dao4
-擁腫	yong3 zhong3
-擁護	yong3 hu4
-擁霧翻波	yong3 wu4 fan1 bo1
-擁鼻	yong3 bi2
-擁鼻吟	yong3 bi2 yin2
 擂天倒地	lei2 tian1 dao3 di4
 擂家	lei4 jia1
 擂槌	lei2 chui2
@@ -78661,7 +78629,6 @@ min_phrase_weight: 100
 珍藏	zhen1 cang2
 珍藏密斂	zhen1 cang2 mi4 lian4
 珍重	zhen1 zhong4
-珠圍翠擁	zhu1 wei2 cui4 yong3
 珠子	zhu1 zi5
 珠宮貝闕	zhu1 gong1 bei4 que4
 珠沉玉沒	zhu1 chen2 yu4 mo4
@@ -80473,6 +80440,7 @@ min_phrase_weight: 100
 相提並論	xiang1 ti2 bing4 lun4
 相搏	xiang1 bo2
 相撞	xiang1 zhuang4
+相擁而泣	xiang1 yong1 er2 qi4
 相擁而泣	xiang1 yong3 er2 qi4
 相擾	xiang1 rao3
 相救	xiang1 jiu4
@@ -83069,7 +83037,6 @@ min_phrase_weight: 100
 篼子	dou1 zi5
 篾片	mie4 pian4
 篾片相公	mie4 pian4 xiang4 gong1
-簇擁	cu4 yong3
 簉弄	zao4 nong4
 簌地	su4 di4
 簍子	lou3 zi5
@@ -88375,9 +88342,6 @@ min_phrase_weight: 100
 蜀素帖	shu3 su4 tie4
 蜀道難	shu3 dao4 nan2
 蜂房不容鵠卵	feng1 fang2 bu4 rong2 hu2 luan3
-蜂擁	feng1 yong3
-蜂擁而上	feng1 yong3 er2 shang4
-蜂擁而至	feng1 yong3 er2 zhi4
 蜂王漿	feng1 wang2 jiang1
 蜂腰削背	feng1 yao1 xue4 bei4
 蜂蒙	feng1 meng2
@@ -92733,7 +92697,6 @@ min_phrase_weight: 100
 逃逸速度	tao2 yi4 su4 du4
 逃難	tao2 nan4
 逆反應	ni4 fan3 ying4
-逆向擁塞通知	ni4 xiang4 yong1 sai1 tong1 zhi1
 逆差	ni4 cha1
 逆折	ni4 zhe2
 逆水行舟	ni4 shui3 xing2 zhou1
