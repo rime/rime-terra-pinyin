@@ -20,6 +20,7 @@ switches:
   - name: ascii_mode
     reset: 0
     states: [ 中文, 西文 ]
+    abbrev: [ 中, Ａ ]
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: simplification
