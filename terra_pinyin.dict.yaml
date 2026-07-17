@@ -23,11 +23,9 @@
 
 ---
 name: terra_pinyin
-version: "2021.08.05"
+version: "2026.07.17"
 sort: by_weight
 use_preset_vocabulary: true
-max_phrase_length: 7
-min_phrase_weight: 100
 ...
 
 〇	ling2
